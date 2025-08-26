@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Fortran-generated files
+*.mod
+*.o
+*.so
+*.a
+
+# Project-specific files
+data/*
